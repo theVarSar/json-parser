@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+## Download Code mirror and keep in root folder
+https://codemirror.net/
 
 ### Compiles and hot-reloads for development
 ```
